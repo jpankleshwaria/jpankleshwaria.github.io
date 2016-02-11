@@ -11,6 +11,7 @@ body {
 .header-image {
     display: block;
     width: 100%;
+	margin-bottom: 20px;
     text-align: center;
     background: url('../images/banner.png') no-repeat center center scroll;
     -webkit-background-size: cover;
@@ -20,7 +21,7 @@ body {
 }
 
 .headline {
-    padding: 176px 0;
+    padding: 290px 0;
 }
 
 .headline h1 {
@@ -36,7 +37,7 @@ body {
 }
 
 .featurette-divider {
-    margin: 80px 0;
+    margin: 20px 0;
 }
 
 .featurette {
@@ -52,7 +53,7 @@ body {
 }
 
 .featurette-heading {
-    font-size: 50px;
+    font-size: 35px;
 }
 
 footer {
